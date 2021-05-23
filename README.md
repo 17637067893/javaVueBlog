@@ -1,6 +1,7 @@
 # blog
 
 ## Project setup
+自己学习的vue前端blog
 ```
 npm install
 ```
